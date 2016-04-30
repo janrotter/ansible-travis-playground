@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/janrotter/ansible-travis-playground.svg?branch=master)](https://travis-ci.org/janrotter/ansible-travis-playground)
+
 Role Name
 =========
 
